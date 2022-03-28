@@ -5,67 +5,160 @@
       "patterns": [
         "Hi",
         "Hey",
+        "Heyy",
         "How are you",
         "Is anyone there?",
         "Hello",
-        "Good day"
+        "Good day",
+        "Whats up",
+        "How are ya",
+        "Whatsup",
+        "How are you doing",
+        "How are you doing today"
       ],
       "responses": [
         "Hey :-)",
         "Hello, thanks for visiting",
         "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
+        "Hi there, how can I help?",
+        "Hello, how can I help?",
+        "Hello, how can I help you?",
+        "Hello, how can I help you today?"
       ]
     },
     {
       "tag": "goodbye",
-      "patterns": ["Bye", "See you later", "Goodbye"],
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "cya",
+        "see ya later",
+        "bye bye",
+        "I am leaving",
+        "Have a good day",
+        "ttyl",
+        "Talk to you later",
+        "gtg",
+        "Got to go",
+        "I am off",
+        "I am going"
+      ],
       "responses": [
         "See you later, thanks for visiting",
-        "Have a nice day",
-        "Bye! Come back again soon."
+        "Have a nice day!",
+        "Bye! Come back again soon.",
+        "Come back soon",
+        "Goodbye!"
+      ]
+    },
+    {
+      "tag": "creator",
+      "patterns": [
+        "what is the name of your developers",
+        "what is the name of your creators",
+        "who created you",
+        "who are your developers",
+        "who are your creators",
+        "you are made by whom",
+        "who created you",
+        "who made you",
+        "who designed you"
+      ],
+      "responses": [
+        "This chatbot was created by the VESIT Website Team"
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "Where do I call you?",
+        "How do I contact you?",
+        "Can I get the contact number of the college?",
+        "Can I send you an email?",
+        "What are the various communication methods?",
+        "Can you send the contact number of the college?",
+        "Where do I email you?",
+        "How do I email you?",
+        "Can I get your phone number?",
+        "Can I get your email address?",
+        "Can I get your email id?",
+        "Can I get your phone no?",
+        "Do you take phone calls?",
+        "Do you receive emails",
+        "How do I get my queries cleared?",
+        "How do I get my queries about admission cleared?"
+      ],
+      "responses": [
+        "You can contact the college at: +91-22-61532518 OR vesit.admission@ves.ac.in"
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "where is the college located",
+        "college is located at",
+        "where is college",
+        "where is college located",
+        "address of college",
+        "how to reach college",
+        "college location",
+        "college address",
+        "where is the college",
+        "how can I reach college",
+        "what is the college address",
+        "what is the address of college"
+      ],
+      "responses": [
+        "Address: Hashu Advani Memorial Complex, Collector’s Colony, Chembur, Mumbai – 400074. India"
+      ]
+    },
+    {
+      "tag": "courses",
+      "patterns": [
+        "what is the list of courses",
+        "what is the list of branches",
+        "what is the list of the courses offered",
+        "what is the list of courses offered in VESIT",
+        "what are the courses offered in your college?",
+        "what are the courses offered",
+        "what are the branches offered",
+        "what are the courses offered in VESIT",
+        "what are the courses you offer",
+        "courses available at VESIT",
+        "branches available at VESIT",
+        "what are the courses in VESIT",
+        "what are branches in VESIT",
+        "what are courses in VESIT",
+        "branches available in VESIT",
+        "can you tell me the courses available in VESIT",
+        "can you tell me the branches available in VESIT",
+        "what is the intake?",
+        "how many seats in each course?",
+        "how many seats in each branch?",
+        "how many seats?",
+        "total number of seats in each branch",
+        "total number of seats in each course",
+        "intake in each branch",
+        "intake in each course"
+      ],
+      "responses": [
+        "VESIT offers: Bachelor of Engineering [BE] in Computer Science (180), Information Technology (120), Artificial Intelligence and Data Science (60), Electronics and Telecommunications (120), Electronics (60) and Instrumentation (60) AND Master of Computer Applications [MCA] (120) AND Master of Engineering (ME) in Information Technology (18), Electronics and Telecommunications (18) and Instrumentation and Control (18)"
       ]
     },
     {
       "tag": "thanks",
-      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
-      "responses": ["Happy to help!", "Any time!", "My pleasure"]
-    },
-    {
-      "tag": "items",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank's a lot!",
+        "Thank you for your services"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
-      ]
-    },
-    {
-      "tag": "payments",
-      "patterns": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
-        "Can I pay with Paypal?",
-        "Are you cash only?"
-      ],
-      "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
-      ]
-    },
-    {
-      "tag": "delivery",
-      "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
-      ],
-      "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "Happy to help!",
+        "Any time!",
+        "My pleasure"
       ]
     },
     {
