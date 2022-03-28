@@ -147,13 +147,173 @@
       ]
     },
     {
+      "tag": "hours",
+      "patterns": [
+        "Timing of college",
+        "What is college timing",
+        "Working days",
+        "When are you guys open",
+        "What are your hours",
+        "Hours of operation",
+        "When is the college open",
+        "College timing",
+        "What about college timing",
+        "Is college open on saturday",
+        "Tell something about college timing",
+        "What is the college  hours",
+        "When should i come to college",
+        "When should i attend college",
+        "What is my college time",
+        "College timings"
+      ],
+      "responses": [
+        "The college timing for First Year and Fourth Year are from 10:25 AM to 5:00 PM and the timing for Second Year and Third Year are from 8:10 AM to 2:45 PM"
+      ]
+    },
+    {
+      "tag": "fees",
+      "patterns": [
+        "Information about fee",
+        "Information on fee",
+        "Tell me the fee",
+        "College fee",
+        "College fees",
+        "Fee per semester",
+        "What is the fee of each semester",
+        "What is the fees of each year",
+        "What is fee",
+        "What is the fees",
+        "How much is the fees",
+        "About the fees",
+        "Tell me something about the fees"
+      ],
+      "responses": [
+        "For Fee Structure details, visit <a target=\"_blank\" href=\"\"> here</a>"
+      ]
+    },
+    {
+      "tag": "hostel",
+      "patterns": [
+        "Hostel facility",
+        "Hostel servive",
+        "Hostel location",
+        "Hostel address",
+        "Hostel facilities",
+        "Hostel fees",
+        "Does college provide hostel",
+        "Is there any hostel",
+        "Where is hostel",
+        "Do you have hostel",
+        "Do you guys have hostel",
+        "Hostel capacity",
+        "What is the hostel fee",
+        "How to get in hostel",
+        "What is the hostel address",
+        "How far is hostel from college",
+        "Hostel college distance",
+        "Where is the hostel",
+        "How big is the hostel",
+        "Distance between college and hostel",
+        "Distance between hostel and college"
+      ],
+      "responses": [
+        "VESIT does provide hostel facility. For more details, visit <a target=\"_blank\" href=\"\"> here</a>. You can also contact the hostel at: "
+      ]
+    },
+    {
+      "tag": "document",
+      "patterns": [
+        "Documents needed for admision",
+        "Documents needed at the time of admission",
+        "Documents needed during admission",
+        "Documents required for admision",
+        "Documents required at the time of admission",
+        "Documents required during admission",
+        "What document are required for admission",
+        "Which document to bring for admission",
+        "What documents do i need",
+        "What documents do I need for admission"
+      ],
+      "responses": [
+        "To know more about documents required, visit <a target=\"_blank\" href=\"\"> here</a>"
+      ]
+    },
+    {
+      "tag": "ragging",
+      "patterns": [
+        "Is ragging practice active in college",
+        "Does college have any antiragging rule",
+        "Is there any ragging cases",
+        "Is ragging done here",
+        "Ragging juniors",
+        "Ragging history",
+        "Ragging incidents"
+      ],
+      "responses": [
+        "We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging. We ask students to submit an Anti-Ragging document while taking an admission in our college. It is mandatory."
+      ]
+    },
+    {
+      "tag": "principal",
+      "patterns": [
+        "What is the name of principal",
+        "What is the principal name",
+        "Principal name",
+        "Who is college principal",
+        "Where is principal's office",
+        "Name of principal"
+      ],
+      "responses": [
+        "Dr. J M Nair is our college principal"
+      ]
+    },
+    {
+      "tag": "library",
+      "patterns": [
+        "Is there any library",
+        "Library facility",
+        "Library facilities",
+        "Do you have library",
+        "Does the college have library facility",
+        "College library",
+        "Where can i get books",
+        "Book facility",
+        "Where is library",
+        "Tell me about library",
+        "How many libraries"
+      ],
+      "responses": [
+        "Institute library has more than 49337 books and 63 journals of national and international level. Library also provides: Internet and all e-journal access through college campus as well as off campus. Open access facility for all. IIT Library Membership. Membership with National Digital Library"
+      ]
+    },
+    {
+      "tag": "task",
+      "patterns": [
+        "What can you do",
+        "What are the thing you can do",
+        "Things you can do",
+        "What can you do for me",
+        "How you can help me",
+        "Why I should use you"
+      ],
+      "responses": [
+        "I can answer to low-intermediate questions regarding college",
+        "You can ask me questions regarding college, and I will try to answer them"
+      ]
+    },
+    {
       "tag": "thanks",
       "patterns": [
         "Thanks",
         "Thank you",
         "That's helpful",
         "Thank's a lot!",
-        "Thank you for your services"
+        "Thank you for your services",
+        "Okk",
+        "Okie",
+        "Nice work",
+        "Well done",
+        "Good job"
       ],
       "responses": [
         "Happy to help!",
@@ -166,7 +326,8 @@
       "patterns": [
         "Tell me a joke!",
         "Tell me something funny!",
-        "Do you know a joke?"
+        "Do you know a joke?",
+        "Be funny"
       ],
       "responses": [
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
