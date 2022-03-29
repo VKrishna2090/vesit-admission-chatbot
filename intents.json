@@ -103,7 +103,7 @@
         "what is the address of college"
       ],
       "responses": [
-        "<b>Address:</b> Hashu Advani Memorial Complex, Collector’s Colony, Chembur, Mumbai – 400074. India"
+        "<b>Address:</b> Hashu Advani Memorial Complex, Collector's Colony, Chembur, Mumbai - 400074. India"
       ]
     },
     {
@@ -136,7 +136,7 @@
         "intake in each course"
       ],
       "responses": [
-        "<b>VESIT offers:</b> <u>Bachelor of Engineering</u>[BE] in <br>Computer Science (180), <br>Information Technology (120), <br>Artificial Intelligence and Data Science (60), <br>Electronics and Telecommunications (120), <br>Electronics (60) and <br>Instrumentation (60) <br>AND<br><u>Master of Computer Applications</u> [MCA] (120) <br>AND <br> <u>Master of Engineering</u> (ME) in <br>Information Technology (18), <br>Electronics and Telecommunications (18) and <br>Instrumentation and Control (18)"
+        "<b>VESIT offers:</b><br><u>Bachelor of Engineering</u>[BE] in <br>Computer Science (180), <br>Information Technology (120), <br>Artificial Intelligence and Data Science (60), <br>Electronics and Telecommunications (120), <br>Electronics (60) and <br>Instrumentation (60) <br>AND<br><u>Master of Computer Applications</u> [MCA] (120) <br>AND <br> <u>Master of Engineering</u> (ME) in <br>Information Technology (18), <br>Electronics and Telecommunications (18) and <br>Instrumentation and Control (18)"
       ]
     },
     {
@@ -211,7 +211,9 @@
         "What document are required for admission",
         "Which document to bring for admission",
         "What documents do i need",
-        "What documents do I need for admission"
+        "What doc do I need for admission",
+        "What docs do I need for admission",
+        "What do I need"
       ],
       "responses": [
         "To know more about documents required, visit <a target=\"\" href=\"\"> here</a>"
