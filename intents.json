@@ -17,7 +17,7 @@
         "How are you doing today"
       ],
       "responses": [
-        "Hey :-)",
+        "Hey :)",
         "Hello, thanks for visiting",
         "Hi there, what can I do for you?",
         "Hi there, how can I help?",
@@ -61,7 +61,6 @@
         "who are your developers",
         "who are your creators",
         "you are made by whom",
-        "who created you",
         "who made you",
         "who designed you"
       ],
@@ -76,21 +75,17 @@
         "How do I contact you?",
         "Can I get the contact number of the college?",
         "Can I send you an email?",
-        "What are the various communication methods?",
-        "Can you send the contact number of the college?",
         "Where do I email you?",
-        "How do I email you?",
         "Can I get your phone number?",
         "Can I get your email address?",
         "Can I get your email id?",
         "Can I get your phone no?",
         "Do you take phone calls?",
-        "Do you receive emails",
         "How do I get my queries cleared?",
         "How do I get my queries about admission cleared?"
       ],
       "responses": [
-        "You can contact the college at: +91-22-61532518 OR vesit.admission@ves.ac.in"
+        "You can contact the college at: <a href=\"tel:02261532518\">+91-22-61532518</a> OR <a href=\"mailto:vesit.admission@ves.ac.in\">vesit.admission@ves.ac.in</a>"
       ]
     },
     {
@@ -99,18 +94,16 @@
         "where is the college located",
         "college is located at",
         "where is college",
-        "where is college located",
         "address of college",
         "how to reach college",
         "college location",
         "college address",
-        "where is the college",
         "how can I reach college",
         "what is the college address",
         "what is the address of college"
       ],
       "responses": [
-        "Address: Hashu Advani Memorial Complex, Collector’s Colony, Chembur, Mumbai – 400074. India"
+        "<b>Address:</b> Hashu Advani Memorial Complex, Collector’s Colony, Chembur, Mumbai – 400074. India"
       ]
     },
     {
@@ -143,7 +136,7 @@
         "intake in each course"
       ],
       "responses": [
-        "VESIT offers: Bachelor of Engineering [BE] in Computer Science (180), Information Technology (120), Artificial Intelligence and Data Science (60), Electronics and Telecommunications (120), Electronics (60) and Instrumentation (60) AND Master of Computer Applications [MCA] (120) AND Master of Engineering (ME) in Information Technology (18), Electronics and Telecommunications (18) and Instrumentation and Control (18)"
+        "<b>VESIT offers:</b> <u>Bachelor of Engineering</u>[BE] in <br>Computer Science (180), <br>Information Technology (120), <br>Artificial Intelligence and Data Science (60), <br>Electronics and Telecommunications (120), <br>Electronics (60) and <br>Instrumentation (60) <br>AND<br><u>Master of Computer Applications</u> [MCA] (120) <br>AND <br> <u>Master of Engineering</u> (ME) in <br>Information Technology (18), <br>Electronics and Telecommunications (18) and <br>Instrumentation and Control (18)"
       ]
     },
     {
@@ -152,18 +145,13 @@
         "Timing of college",
         "What is college timing",
         "Working days",
-        "When are you guys open",
-        "What are your hours",
         "Hours of operation",
         "When is the college open",
-        "College timing",
-        "What about college timing",
         "Is college open on saturday",
         "Tell something about college timing",
-        "What is the college  hours",
+        "What is the college hours",
         "When should i come to college",
         "When should i attend college",
-        "What is my college time",
         "College timings"
       ],
       "responses": [
@@ -175,49 +163,40 @@
       "patterns": [
         "Information about fee",
         "Information on fee",
-        "Tell me the fee",
         "College fee",
         "College fees",
         "Fee per semester",
         "What is the fee of each semester",
         "What is the fees of each year",
-        "What is fee",
         "What is the fees",
         "How much is the fees",
-        "About the fees",
-        "Tell me something about the fees"
+        "About the fees"
       ],
       "responses": [
-        "For Fee Structure details, visit <a target=\"_blank\" href=\"\"> here</a>"
+        "For Fee Structure details, visit <a href=\"/doc/11\">here</a>"
       ]
     },
     {
       "tag": "hostel",
       "patterns": [
         "Hostel facility",
-        "Hostel servive",
+        "Hostel service",
         "Hostel location",
         "Hostel address",
         "Hostel facilities",
         "Hostel fees",
         "Does college provide hostel",
-        "Is there any hostel",
-        "Where is hostel",
         "Do you have hostel",
-        "Do you guys have hostel",
         "Hostel capacity",
         "What is the hostel fee",
-        "How to get in hostel",
-        "What is the hostel address",
         "How far is hostel from college",
         "Hostel college distance",
         "Where is the hostel",
         "How big is the hostel",
-        "Distance between college and hostel",
-        "Distance between hostel and college"
+        "Distance between college and hostel"
       ],
       "responses": [
-        "VESIT does provide hostel facility. For more details, visit <a target=\"_blank\" href=\"\"> here</a>. You can also contact the hostel at: "
+        "VESIT does provide hostel facility. For more details, visit <a href=\"/facilities/hostels\"> here</a>. You can also contact the hostel at: <a href=\"tel:9820569938\">+91-9820569938</a> OR <a href=\"mailto:hostel.admin@ves.ac.in\">hostel.admin@ves.ac.in</a>"
       ]
     },
     {
@@ -235,7 +214,7 @@
         "What documents do I need for admission"
       ],
       "responses": [
-        "To know more about documents required, visit <a target=\"_blank\" href=\"\"> here</a>"
+        "To know more about documents required, visit <a target=\"\" href=\"\"> here</a>"
       ]
     },
     {
@@ -250,7 +229,7 @@
         "Ragging incidents"
       ],
       "responses": [
-        "We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging. We ask students to submit an Anti-Ragging document while taking an admission in our college. It is mandatory."
+        "We are proud to tell you that our college provides ragging free environment, and we have strict rules against ragging. We ask students to submit an Anti-Ragging document while taking an admission in our college. It is mandatory."
       ]
     },
     {
@@ -287,18 +266,19 @@
       ]
     },
     {
-      "tag": "task",
+      "tag": "placement",
       "patterns": [
-        "What can you do",
-        "What are the thing you can do",
-        "Things you can do",
-        "What can you do for me",
-        "How you can help me",
-        "Why I should use you"
+        "what job offers did you get",
+        "what are the job oppotunities",
+        "what jobs",
+        "placement statistics",
+        "how are the placements here",
+        "which companies visit the college",
+        "company offers",
+        "job offers"
       ],
       "responses": [
-        "I can answer to low-intermediate questions regarding college",
-        "You can ask me questions regarding college, and I will try to answer them"
+        "For placement statistics visit <a href=\"\">here</a>"
       ]
     },
     {
