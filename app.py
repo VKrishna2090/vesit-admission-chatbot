@@ -11,11 +11,12 @@ CORS(app)
 
 @app.get('/')
 def index_get():
-    return render_template('base.html')
+    return "Hello"
 
 @app.post('/predict')
 def predict():
-    if request.referrer == os.environ.get('AUTHORIZED_LINK'):
+    key = request.get_json().get("key") 
+    if key == os.environ.get('KEY'):
         text = request.get_json().get("message") 
         response = get_response(text)
         message = {"answer": response}

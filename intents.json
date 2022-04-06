@@ -152,7 +152,8 @@
         "What is the college hours",
         "When should i come to college",
         "When should i attend college",
-        "College timings"
+        "College timings",
+        "work timings"
       ],
       "responses": [
         "The college timing for First Year and Fourth Year are from 10:25 AM to 5:00 PM and the timing for Second Year and Third Year are from 8:10 AM to 2:45 PM"
@@ -302,6 +303,31 @@
         "Any time!",
         "My pleasure"
       ]
+    },
+    {
+      "tag": "faculty",
+      "patterns": [],
+      "responses": []
+    },
+    {
+      "tag": "canteen",
+      "patterns": [],
+      "responses": []
+    },
+    {
+      "tag": "events",
+      "patterns": [],
+      "responses": []
+    },
+    {
+      "tag": "infrastructure",
+      "patterns": [],
+      "responses": []
+    },
+    {
+      "tag": "sports",
+      "patterns": [],
+      "responses": []
     },
     {
       "tag": "funny",

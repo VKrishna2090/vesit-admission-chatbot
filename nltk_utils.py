@@ -1,8 +1,8 @@
 import numpy as np
 import nltk
 # nltk.download('punkt')
-from nltk.stem.porter import PorterStemmer
-stemmer = PorterStemmer()
+from nltk.stem import WordNetLemmatizer
+stemmer = WordNetLemmatizer()
 
 
 def tokenize(sentence):
@@ -21,7 +21,7 @@ def stem(word):
     words = [stem(w) for w in words]
     -> ["organ", "organ", "organ"]
     """
-    return stemmer.stem(word.lower())
+    return stemmer.lemmatize(word.lower())
 
 
 def bag_of_words(tokenized_sentence, words):
