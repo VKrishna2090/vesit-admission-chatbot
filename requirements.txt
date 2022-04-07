@@ -1,2 +1,5 @@
+numpy
 torch==1.11.0
-cors
+flask_cors
+nltk
+flask

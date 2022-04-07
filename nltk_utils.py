@@ -1,6 +1,8 @@
 import numpy as np
 import nltk
-# nltk.download('punkt')
+nltk.download('punkt')
+nltk.download('omw-1.4')
+
 from nltk.stem import WordNetLemmatizer
 stemmer = WordNetLemmatizer()
 
