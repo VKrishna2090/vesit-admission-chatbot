@@ -281,7 +281,7 @@
         "job offers"
       ],
       "responses": [
-        "For placement statistics visit <a href=\"\">here</a>"
+        "For placement statistics visit <a href='https://vesittpc.ves.ac.in/'>here</a>"
       ]
     },
     {
@@ -292,8 +292,6 @@
         "That's helpful",
         "Thank's a lot!",
         "Thank you for your services",
-        "Okk",
-        "Okie",
         "Nice work",
         "Well done",
         "Good job"
@@ -306,28 +304,89 @@
     },
     {
       "tag": "faculty",
-      "patterns": [],
-      "responses": []
+      "patterns": [
+        "What is the faculty?",
+        "Faculty of VESIT",
+        "Staff of VESIT",
+        "How good are teachers of VESIT",
+        "Teaching standards of VESIT",
+        "How are the professors in VESIT"
+      ],
+      "responses": [
+        "VESIT believes that the faculty of an institution determines and immensely contributes to its success and in delivering quality education. VESIT is making its presence in Maharashtra tops the list of preference on admissions not only on the factor of being an old institution aged 36, because of its efficient functioning on imparting quality education through a process of innovative teaching inherited with techniques like Process Oriented Guided Inquiry Learning, Peer learning, Flipped Classroom and Google class room concept. As the postulates of quality education does not narrow down with an insight in teaching it includes features contributing to the aspects of looking beyond the syllabus like global exposure, skill enhancement lectures, professional competency enhancement programs and so on. Our faculty members have published their research work in various international journals and conferences, published books, filed patents and received research grants from various institutions/organizations."
+      ]
     },
     {
       "tag": "canteen",
-      "patterns": [],
-      "responses": []
+      "patterns": [
+        "Is there any canteen",
+        "Canteen facilities",
+        "Canteen service",
+        "Canteen location",
+        "Is there cafeteria",
+        "food in college"
+      ],
+      "responses": [
+        "VESIT has its very own canteen on ground floor which is open from 9 AM to 6 PM."
+      ]
     },
     {
       "tag": "events",
-      "patterns": [],
-      "responses": []
+      "patterns": [
+        "what extra curricular activities are conducted in VESIT",
+        "what all events take place in VESIT",
+        "activities in VESIT",
+        "competitions in VESIT",
+        "hackathons in VESIT"
+      ],
+      "responses": [
+        "VESIT fosters academic excellence through various industry collaborations, involvement of students and teachers in various technical and non technical activities and encouraging students/staff for research and innovation, Providing a healthy environment in terms of infrastructure and facilities for their scholastic growth. Students are encouraged to participate in various competitions at state level and at national level competitions such as Smart India Hackathon, Texas Instruments Challenge, E-yantra competition, Avishkar Inter University Competition, Toycathon, Swadeshi Microprocessor Challenge to name a few. These competitions challenge the capabilities of students to provide technical solutions for the problems existing in the society or system."
+      ]
     },
     {
       "tag": "infrastructure",
-      "patterns": [],
-      "responses": []
+      "patterns": [
+        "What is the infrastructure",
+        "Facilities of VESIT",
+        "Amenities in VESIT"
+      ],
+      "responses": [
+        "Our campus is equipped with all modern facilities that provide a perfect setting for academic pursuits. The combination of world-class amenities, resources, curricular and extra-curricular activities goes a long way in ensuring a productive campus life. Facilities like Project Room like this available."
+      ]
     },
     {
-      "tag": "sports",
-      "patterns": [],
-      "responses": []
+      "tag": "station",
+      "patterns": [
+        "nearest railway station",
+        "local train near college"
+      ],
+      "responses": [
+        "Nearest railway station to VESIT is Kurla (Central) and Chembur (Harbour)."
+      ]
+    },
+    {
+      "tag": "quota",
+      "patterns": [
+        "Is there management quota in VESIT",
+        "admission using institutional quota",
+        "Is there quota in VESIT"
+      ],
+      "responses": [
+        "VES trust believes in giving a chance to meritorious students. Hence, VESIT has surrendered institute quota seats to the Centralized admission process (DTE). 100% admissions are through the Centralized admission process conducted by the Directorate of Technical Education, Maharashtra. For more information refer <a href='https://cetcell.mahacet.org/'>https://cetcell.mahacet.org/</a>"
+      ]
+    },
+    {
+      "tag": "process",
+      "patterns": [
+        "admission process",
+        "steps for admission",
+        "process of admission",
+        "instructions for admission",
+        "admission"
+      ],
+      "responses": [
+        "For admission process click <a href='https://vesitadmissions.ves.ac.in/pdfs/CAP_admission_Steps_after_DTE_allotted_seat.pdf'>here</a>"
+      ]
     },
     {
       "tag": "funny",
