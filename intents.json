@@ -85,7 +85,7 @@
         "How do I get my queries about admission cleared?"
       ],
       "responses": [
-        "You can contact the college at: <a href=\"tel:02261532518\">+91-22-61532518</a> OR <a href=\"mailto:vesit.admission@ves.ac.in\">vesit.admission@ves.ac.in</a>"
+        "You can contact the college at: <a href='tel:02261532518'>+91-22-61532518</a> OR <a href='mailto:vesit.admission@ves.ac.in'>vesit.admission@ves.ac.in</a>"
       ]
     },
     {
@@ -174,7 +174,7 @@
         "About the fees"
       ],
       "responses": [
-        "For Fee Structure details, visit <a href=\"/doc/11\">here</a>"
+        "For Fee Structure details, visit <a href='/doc/11'>here</a>"
       ]
     },
     {
@@ -197,7 +197,7 @@
         "Distance between college and hostel"
       ],
       "responses": [
-        "VESIT does provide hostel facility. For more details, visit <a href=\"/facilities/hostels\"> here</a>. You can also contact the hostel at: <a href=\"tel:9820569938\">+91-9820569938</a> OR <a href=\"mailto:hostel.admin@ves.ac.in\">hostel.admin@ves.ac.in</a>"
+        "VESIT does provide hostel facility. For more details, visit <a href='/facilities/hostels'> here</a>. You can also contact the hostel at: <a href='tel:9820569938'>+91-9820569938</a> OR <a href='mailto:hostel.admin@ves.ac.in'>hostel.admin@ves.ac.in</a>"
       ]
     },
     {
@@ -217,7 +217,7 @@
         "What do I need"
       ],
       "responses": [
-        "To know more about documents required, visit <a target=\"\" href=\"\"> here</a>"
+        "To know more about documents required: <br> FE : <a href='/doc/13'>Click here</a> <br> DSE : <a href='/doc/23'>Click here</a> <br> MCA : <a href='/doc/33'>Click here</a> <br> ME : <a href='/doc/43'>Click here</a>"
       ]
     },
     {
