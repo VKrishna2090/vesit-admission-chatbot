@@ -217,7 +217,7 @@
         "What do I need"
       ],
       "responses": [
-        "To know more about documents required: <br> FE : <a href='/doc/13'>Click here</a> <br> DSE : <a href='/doc/23'>Click here</a> <br> MCA : <a href='/doc/33'>Click here</a> <br> ME : <a href='/doc/43'>Click here</a>"
+        "To know more about documents required: <br> FE : <a href='https://vesitadmissions.ves.ac.in/pdfs/FE_DTE_ADMISSION_DOC_REQUIRED.txt'>Click here</a> <br> DSE : <a href='/doc/23'>Click here</a> <br> MCA : <a href='/doc/33'>Click here</a> <br> ME : <a href='/doc/43'>Click here</a>"
       ]
     },
     {
@@ -385,7 +385,7 @@
         "admission"
       ],
       "responses": [
-        "For admission process click <a href='https://vesitadmissions.ves.ac.in/pdfs/CAP_admission_Steps_after_DTE_allotted_seat.pdf'>here</a>"
+        "For admission process click <a href='https://vesitadmissions.ves.ac.in/pdfs/FE%20DTE%20Instruction%20Manual.pdf'>here</a>"
       ]
     },
     {
