@@ -17,13 +17,10 @@
         "How are you doing today"
       ],
       "responses": [
-        "Hey :)",
-        "Hello, thanks for visiting",
-        "Hi there, what can I do for you?",
-        "Hi there, how can I help?",
         "Hello, how can I help?",
         "Hello, how can I help you?",
-        "Hello, how can I help you today?"
+        "Hello, is there any query that I can help with?",
+        "Hello, do you have any query that I can help with?"
       ]
     },
     {
@@ -45,11 +42,8 @@
         "I am going"
       ],
       "responses": [
-        "See you later, thanks for visiting",
-        "Have a nice day!",
-        "Bye! Come back again soon.",
-        "Come back soon",
-        "Goodbye!"
+        "Hope the information on this website was useful, thank you for visiting",
+        "Hope the information on this website was useful, thanks for visiting"
       ]
     },
     {
@@ -136,7 +130,7 @@
         "intake in each course"
       ],
       "responses": [
-        "<b>VESIT offers:</b><br><u>Bachelor of Engineering</u>[BE] in <br>Computer Science (180), <br>Information Technology (120), <br>Artificial Intelligence and Data Science (60), <br>Electronics and Telecommunications (120), <br>Electronics (60) and <br>Instrumentation (60) <br>AND<br><u>Master of Computer Applications</u> [MCA] (120) <br>AND <br> <u>Master of Engineering</u> (ME) in <br>Information Technology (18), <br>Electronics and Telecommunications (18) and <br>Instrumentation and Control (18)"
+        "<b>VESIT offers:</b><br><u>Bachelor of Engineering</u>[BE] in <br><ul><li>Computer Science (180)</li><li>Information Technology (120)</li><li>Artificial Intelligence and Data Science (60)</li><li>Electronics and Telecommunications (120)</li><li>Electronics (60)</li><li>Instrumentation (60)</li></ul> AND<br><u>Master of Computer Applications</u> [MCA] (120) <br><br>AND <br> <u>Master of Engineering</u> (ME) in <ul><li>Information Technology (18)</li><li>Electronics and Telecommunications (18)</li><li>Instrumentation and Control (18)</li></ul>"
       ]
     },
     {
@@ -156,7 +150,7 @@
         "work timings"
       ],
       "responses": [
-        "The college timing for First Year and Fourth Year are from 10:25 AM to 5:00 PM and the timing for Second Year and Third Year are from 8:10 AM to 2:45 PM"
+        "The college timing for First Year and Fourth Year students are from 10:25 AM to 5:00 PM and the timing for Second Year and Third Year are from 8:10 AM to 2:45 PM.<br>The timings for admission desk is from 10 AM to 5 PM."
       ]
     },
     {
@@ -167,14 +161,13 @@
         "College fee",
         "College fees",
         "Fee per semester",
-        "What is the fee of each semester",
-        "What is the fees of each year",
-        "What is the fees",
-        "How much is the fees",
+        "fee of each semester",
+        "fees of each year",
+        "fees",
         "About the fees"
       ],
       "responses": [
-        "For Fee Structure details, visit <a href='/doc/11'>here</a>"
+        "For Fee Structure details, visit <br> FE : <a href='/doc/11'>Click here</a> <br> DSE : <a href='/doc/21'>Click here</a> <br> MCA : <a href='/doc/31'>Click here</a> <br> ME : <a href='/doc/41'>Click here</a>"
       ]
     },
     {
@@ -197,7 +190,7 @@
         "Distance between college and hostel"
       ],
       "responses": [
-        "VESIT does provide hostel facility. For more details, visit <a href='/facilities/hostels'> here</a>. You can also contact the hostel at: <a href='tel:9820569938'>+91-9820569938</a> OR <a href='mailto:hostel.admin@ves.ac.in'>hostel.admin@ves.ac.in</a>"
+        "VESIT does provide hostel facility. For more details, visit <a href='https://ves.ac.in/facilities/'> here</a>. You can also contact the hostel at: <a href='tel:9820569938'>+91-9820569938</a> OR <a href='mailto:hostel.admin@ves.ac.in'>hostel.admin@ves.ac.in</a>"
       ]
     },
     {
@@ -217,7 +210,7 @@
         "What do I need"
       ],
       "responses": [
-        "To know more about documents required: <br> FE : <a href='https://vesitadmissions.ves.ac.in/pdfs/FE_DTE_ADMISSION_DOC_REQUIRED.txt'>Click here</a> <br> DSE : <a href='/doc/23'>Click here</a> <br> MCA : <a href='/doc/33'>Click here</a> <br> ME : <a href='/doc/43'>Click here</a>"
+        "To know more about documents required: <br> FE : <a href='/doc/13'>Click here</a> <br> DSE : <a href='/doc/23'>Click here</a> <br> MCA : <a href='/doc/33'>Click here</a> <br> ME : <a href='/doc/43'>Click here</a>"
       ]
     },
     {
@@ -246,7 +239,7 @@
         "Name of principal"
       ],
       "responses": [
-        "Dr. J M Nair is our college principal"
+        "Dr. J M Nair is the principal of out institute. To read more , visit <a href='https://vesit.ves.ac.in/principal-display'> here</a>"
       ]
     },
     {
@@ -265,7 +258,7 @@
         "How many libraries"
       ],
       "responses": [
-        "Institute library has more than 49337 books and 63 journals of national and international level. Library also provides: Internet and all e-journal access through college campus as well as off campus. Open access facility for all. IIT Library Membership. Membership with National Digital Library"
+        "Our library boasts of more than 47,500 books and journals of national & international level. Along with technical updates via latest journals, students can also keep themselves abreast with the latest happenings in the world via News Paper, Magazine & Internet facility. For more details, visit <a href='https://vesit.ves.ac.in/library'> here</a>"
       ]
     },
     {
@@ -281,7 +274,7 @@
         "job offers"
       ],
       "responses": [
-        "For placement statistics visit <a href='https://vesittpc.ves.ac.in/'>here</a>"
+        "For placement statistics visit <a href='https://vesittpcves.ves.ac.in/'>here</a>"
       ]
     },
     {
@@ -297,9 +290,9 @@
         "Good job"
       ],
       "responses": [
-        "Happy to help!",
-        "Any time!",
-        "My pleasure"
+        "Happy to help! Would you like to know more about any other topic?",
+        "You are welcome! Would you like to know more about any other topic?",
+        "You are welcome! Do you have any other query?"
       ]
     },
     {
@@ -313,7 +306,7 @@
         "How are the professors in VESIT"
       ],
       "responses": [
-        "VESIT believes that the faculty of an institution determines and immensely contributes to its success and in delivering quality education. VESIT is making its presence in Maharashtra tops the list of preference on admissions not only on the factor of being an old institution aged 36, because of its efficient functioning on imparting quality education through a process of innovative teaching inherited with techniques like Process Oriented Guided Inquiry Learning, Peer learning, Flipped Classroom and Google class room concept. As the postulates of quality education does not narrow down with an insight in teaching it includes features contributing to the aspects of looking beyond the syllabus like global exposure, skill enhancement lectures, professional competency enhancement programs and so on. Our faculty members have published their research work in various international journals and conferences, published books, filed patents and received research grants from various institutions/organizations."
+        "VESIT believes that the faculty of an institution determines and immensely contributes to its success and in delivering quality education. VESIT is making its presence in Maharashtra tops the list of preference on admissions not only on the factor of being an old institution aged 36, because of its efficient functioning on imparting quality education through a process of innovative teaching inherited with techniques like Process Oriented Guided Inquiry Learning, Peer learning, Flipped Classroom and Google class room concept. As the postulates of quality education does not narrow down with an insight in teaching it includes features contributing to the aspects of looking beyond the syllabus like global exposure, skill enhancement lectures, professional competency enhancement programs and so on. Our faculty members have published their research work in various international journals and conferences, published books, filed patents and received research grants from various institutions/organizations. For more details, visit <a href='https://vesit.ves.ac.in/faculty/IT'> here</a>"
       ]
     },
     {
@@ -327,7 +320,7 @@
         "food in college"
       ],
       "responses": [
-        "VESIT has its very own canteen on ground floor which is open from 9 AM to 6 PM."
+        "VESIT has its very own canteen on ground floor which is open from 9 AM to 6 PM. For more details, visit <a href='https://vesit.ves.ac.in/canteen'> here</a>"
       ]
     },
     {
@@ -340,7 +333,7 @@
         "hackathons in VESIT"
       ],
       "responses": [
-        "VESIT fosters academic excellence through various industry collaborations, involvement of students and teachers in various technical and non technical activities and encouraging students/staff for research and innovation, Providing a healthy environment in terms of infrastructure and facilities for their scholastic growth. Students are encouraged to participate in various competitions at state level and at national level competitions such as Smart India Hackathon, Texas Instruments Challenge, E-yantra competition, Avishkar Inter University Competition, Toycathon, Swadeshi Microprocessor Challenge to name a few. These competitions challenge the capabilities of students to provide technical solutions for the problems existing in the society or system."
+        "VESIT fosters academic excellence through various industry collaborations, involvement of students and teachers in various technical and non technical activities and encouraging students/staff for research and innovation, Providing a healthy environment in terms of infrastructure and facilities for their scholastic growth. Students are encouraged to participate in various competitions at state level and at national level competitions such as Smart India Hackathon, Texas Instruments Challenge, E-yantra competition, Avishkar Inter University Competition, Toycathon, Swadeshi Microprocessor Challenge to name a few. These competitions challenge the capabilities of students to provide technical solutions for the problems existing in the society or system. For more details, visit <a href='https://vesit.ves.ac.in/students_corner/co_curricular'> here</a>"
       ]
     },
     {
@@ -386,19 +379,6 @@
       ],
       "responses": [
         "For admission process click <a href='https://vesitadmissions.ves.ac.in/pdfs/FE%20DTE%20Instruction%20Manual.pdf'>here</a>"
-      ]
-    },
-    {
-      "tag": "funny",
-      "patterns": [
-        "Tell me a joke!",
-        "Tell me something funny!",
-        "Do you know a joke?",
-        "Be funny"
-      ],
-      "responses": [
-        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-        "What did the buffalo say when his son left for college? Bison."
       ]
     }
   ]
