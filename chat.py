@@ -45,7 +45,7 @@ def get_response(msg):
             if tag == intent["tag"]:
                 return random.choice(intent['responses'])
     
-    return "I do not understand your query. You can contact the college at: <a href='tel:02261532518'>+91-22-61532518</a> OR <a href='mailto:vesit.admission@ves.ac.in'>vesit.admission@ves.ac.in</a>"
+    return "I do not understand your query. Please try again."
 
 
 if __name__ == "__main__":
